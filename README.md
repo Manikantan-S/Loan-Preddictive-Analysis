@@ -54,7 +54,7 @@ The dataset was split into training and testing sets with a 90-10 split. The fol
 
 1. **Logistic Regression**: 
    - Hyperparameter tuning using GridSearchCV.
-   - Accuracy: 81.95%
+   - Accuracy: 80.65%
 2. **Support Vector Machine (SVM)**: 
    - Kernel: RBF, Gamma: Auto, C: 6
    - Accuracy: 78.05%
